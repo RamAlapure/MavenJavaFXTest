@@ -1,4 +1,4 @@
-package com.codetreatise.home;
+package com.codetreatise.controller;
 
 import java.net.URL;
 import java.util.ResourceBundle;
